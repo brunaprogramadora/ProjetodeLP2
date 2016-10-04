@@ -1,0 +1,9 @@
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\bin\Debug\Projeto.exe.config
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\bin\Debug\Projeto.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\bin\Debug\Projeto.pdb
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.Cadastro.resources
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.Projeto.resources
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.pdb
