@@ -1,4 +1,4 @@
-﻿namespace Projeto
+﻿namespace ControleDeEstoque
 {
     partial class Cadastro
     {
@@ -67,7 +67,6 @@
             this.txt_Nome.Name = "txt_Nome";
             this.txt_Nome.Size = new System.Drawing.Size(100, 20);
             this.txt_Nome.TabIndex = 1;
-            this.txt_Nome.TextChanged += new System.EventHandler(this.Txt_Nome_TextChanged);
             // 
             // Btn_Salvar
             // 
@@ -87,7 +86,6 @@
             this.lbl_valid.Size = new System.Drawing.Size(48, 13);
             this.lbl_valid.TabIndex = 3;
             this.lbl_valid.Text = "Validade";
-            this.lbl_valid.Click += new System.EventHandler(this.label1_Click);
             // 
             // lbl_origem
             // 
@@ -115,7 +113,6 @@
             this.lbl_quant.Size = new System.Drawing.Size(62, 13);
             this.lbl_quant.TabIndex = 6;
             this.lbl_quant.Text = "Quantidade";
-            this.lbl_quant.Click += new System.EventHandler(this.label4_Click);
             // 
             // lbl_Func
             // 
@@ -125,7 +122,6 @@
             this.lbl_Func.Size = new System.Drawing.Size(79, 13);
             this.lbl_Func.TabIndex = 7;
             this.lbl_Func.Text = "Funcionalidade";
-            this.lbl_Func.Click += new System.EventHandler(this.lbl_Func_Click);
             // 
             // lbl_Textura
             // 

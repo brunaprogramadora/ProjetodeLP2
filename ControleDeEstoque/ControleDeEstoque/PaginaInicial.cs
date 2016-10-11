@@ -8,19 +8,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projeto
+namespace ControleDeEstoque
 {
-    public partial class Projeto : Form
+    public partial class PaginaInicial : Form
     {
-        public Projeto()
+        public PaginaInicial()
         {
             InitializeComponent();
         }
 
-        private void AddProduto_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             
-            
         }
+
     }
 }

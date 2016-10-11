@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projeto
+namespace ControleDeEstoque
 {
     public partial class Cadastro : Form
     {
@@ -31,27 +31,8 @@ namespace Projeto
             p.Localizacao = txt_Local.Text;
             p.Textura = txt_Textura.Text;
 
-            Console.WriteLine(p.Nome);
+            MessageBox.Show(p.Nome +" cadastrado com sucesso!");
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lbl_Func_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Txt_Nome_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

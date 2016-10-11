@@ -7,3 +7,12 @@ c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug
 c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
 c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.exe
 c:\users\alunoct\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.pdb
+D:\ProjetodeLP2\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+D:\ProjetodeLP2\Projeto\Projeto\obj\Debug\Projeto.Cadastro.resources
+D:\ProjetodeLP2\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+D:\ProjetodeLP2\Projeto\Projeto\bin\Debug\Projeto.exe.config
+D:\ProjetodeLP2\Projeto\Projeto\bin\Debug\Projeto.exe
+D:\ProjetodeLP2\Projeto\Projeto\bin\Debug\Projeto.pdb
+D:\ProjetodeLP2\Projeto\Projeto\obj\Debug\Projeto.exe
+D:\ProjetodeLP2\Projeto\Projeto\obj\Debug\Projeto.pdb
+D:\ProjetodeLP2\Projeto\Projeto\obj\Debug\Projeto.PaginaInicial.resources

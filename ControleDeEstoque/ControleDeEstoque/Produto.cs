@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projeto
+namespace ControleDeEstoque
 {
     class Produto
     {
@@ -19,8 +19,8 @@ namespace Projeto
         public string Localizacao { get; set; }
         public string Textura { get; set; }
         public Produto()
-        { 
-        
+        {
+
         }
 
         public Produto(string nome, string validade, string marca)
@@ -28,8 +28,7 @@ namespace Projeto
             this.Nome = nome;
             this.Validade = validade;
             this.Marca = marca;
-            
+
         }
-        
     }
 }

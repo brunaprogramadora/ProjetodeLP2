@@ -10,7 +10,8 @@ namespace Projeto
     {
         static void Main(string[] args)
         {
-       
+            new Cadastro().Show();
+            Console.ReadKey();
         }
     }
 }
