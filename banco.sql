@@ -29,12 +29,13 @@ CREATE TABLE IF NOT EXISTS `produto` (
   `FaixaEtaria` text NOT NULL,
   `Textura` text NOT NULL,
   PRIMARY KEY (`Id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
 
--- Copiando dados para a tabela produto.produto: ~1 rows (aproximadamente)
+-- Copiando dados para a tabela produto.produto: ~0 rows (aproximadamente)
 /*!40000 ALTER TABLE `produto` DISABLE KEYS */;
 INSERT INTO `produto` (`Id`, `Nome`, `Funcionalidade`, `Validade`, `Origem`, `Quantidade`, `Descricao`, `Localizacao`, `Marca`, `FaixaEtaria`, `Textura`) VALUES
-	(1, 'ff', 'ff', 'ff', 'ff', 'fff', 'ff', 'ff', 'ff', 'ff', 'ffff');
+	(1, 'ff', 'ff', 'ff', 'ff', 'fff', 'ff', 'ff', 'ff', 'ff', 'ffff'),
+	(2, 'gg', 'gg', 'gg', 'gg', 'gg', 'gg', 'gg', 'gg', 'gg', 'gg');
 /*!40000 ALTER TABLE `produto` ENABLE KEYS */;
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
 /*!40014 SET FOREIGN_KEY_CHECKS=IF(@OLD_FOREIGN_KEY_CHECKS IS NULL, 1, @OLD_FOREIGN_KEY_CHECKS) */;
