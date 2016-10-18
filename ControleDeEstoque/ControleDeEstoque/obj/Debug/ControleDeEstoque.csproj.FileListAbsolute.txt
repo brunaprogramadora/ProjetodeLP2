@@ -8,3 +8,6 @@ c:\Users\alunoct\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Control
 c:\Users\alunoct\Documents\Visual Studio 2013\Projects\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
 c:\Users\alunoct\Documents\Visual Studio 2013\Projects\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
 c:\Users\alunoct\Documents\Visual Studio 2013\Projects\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.Cadastro.resources
+D:\ProjetodeLP2\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+D:\ProjetodeLP2\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+D:\ProjetodeLP2\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb

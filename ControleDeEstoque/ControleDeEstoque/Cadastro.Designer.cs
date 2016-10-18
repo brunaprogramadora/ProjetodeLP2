@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Cadastro));
             this.Lb_Nome = new System.Windows.Forms.Label();
             this.txt_Nome = new System.Windows.Forms.TextBox();
             this.Btn_Salvar = new System.Windows.Forms.Button();
@@ -54,23 +55,26 @@
             // Lb_Nome
             // 
             this.Lb_Nome.AutoSize = true;
-            this.Lb_Nome.Location = new System.Drawing.Point(93, 31);
+            this.Lb_Nome.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Lb_Nome.Image = ((System.Drawing.Image)(resources.GetObject("Lb_Nome.Image")));
+            this.Lb_Nome.Location = new System.Drawing.Point(102, 20);
             this.Lb_Nome.Name = "Lb_Nome";
-            this.Lb_Nome.Size = new System.Drawing.Size(35, 13);
+            this.Lb_Nome.Size = new System.Drawing.Size(79, 29);
             this.Lb_Nome.TabIndex = 0;
             this.Lb_Nome.Text = "Nome";
             this.Lb_Nome.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // txt_Nome
             // 
-            this.txt_Nome.Location = new System.Drawing.Point(147, 24);
+            this.txt_Nome.Location = new System.Drawing.Point(258, 20);
+            this.txt_Nome.Multiline = true;
             this.txt_Nome.Name = "txt_Nome";
-            this.txt_Nome.Size = new System.Drawing.Size(100, 20);
+            this.txt_Nome.Size = new System.Drawing.Size(302, 31);
             this.txt_Nome.TabIndex = 1;
             // 
             // Btn_Salvar
             // 
-            this.Btn_Salvar.Location = new System.Drawing.Point(321, 137);
+            this.Btn_Salvar.Location = new System.Drawing.Point(714, 456);
             this.Btn_Salvar.Name = "Btn_Salvar";
             this.Btn_Salvar.Size = new System.Drawing.Size(98, 48);
             this.Btn_Salvar.TabIndex = 2;
@@ -81,7 +85,7 @@
             // lbl_valid
             // 
             this.lbl_valid.AutoSize = true;
-            this.lbl_valid.Location = new System.Drawing.Point(80, 101);
+            this.lbl_valid.Location = new System.Drawing.Point(22, 434);
             this.lbl_valid.Name = "lbl_valid";
             this.lbl_valid.Size = new System.Drawing.Size(48, 13);
             this.lbl_valid.TabIndex = 3;
@@ -90,7 +94,7 @@
             // lbl_origem
             // 
             this.lbl_origem.AutoSize = true;
-            this.lbl_origem.Location = new System.Drawing.Point(88, 137);
+            this.lbl_origem.Location = new System.Drawing.Point(64, 474);
             this.lbl_origem.Name = "lbl_origem";
             this.lbl_origem.Size = new System.Drawing.Size(40, 13);
             this.lbl_origem.TabIndex = 4;
@@ -117,7 +121,7 @@
             // lbl_Func
             // 
             this.lbl_Func.AutoSize = true;
-            this.lbl_Func.Location = new System.Drawing.Point(49, 66);
+            this.lbl_Func.Location = new System.Drawing.Point(91, 84);
             this.lbl_Func.Name = "lbl_Func";
             this.lbl_Func.Size = new System.Drawing.Size(79, 13);
             this.lbl_Func.TabIndex = 7;
@@ -182,16 +186,17 @@
             // 
             // txt_Valid
             // 
-            this.txt_Valid.Location = new System.Drawing.Point(147, 94);
+            this.txt_Valid.Location = new System.Drawing.Point(159, 395);
             this.txt_Valid.Name = "txt_Valid";
             this.txt_Valid.Size = new System.Drawing.Size(100, 20);
             this.txt_Valid.TabIndex = 15;
             // 
             // txt_Origem
             // 
-            this.txt_Origem.Location = new System.Drawing.Point(147, 130);
+            this.txt_Origem.Location = new System.Drawing.Point(258, 115);
+            this.txt_Origem.Multiline = true;
             this.txt_Origem.Name = "txt_Origem";
-            this.txt_Origem.Size = new System.Drawing.Size(100, 20);
+            this.txt_Origem.Size = new System.Drawing.Size(302, 31);
             this.txt_Origem.TabIndex = 16;
             // 
             // txt_Quant
@@ -210,14 +215,15 @@
             // 
             // txt_Func
             // 
-            this.txt_Func.Location = new System.Drawing.Point(147, 59);
+            this.txt_Func.Location = new System.Drawing.Point(258, 66);
+            this.txt_Func.Multiline = true;
             this.txt_Func.Name = "txt_Func";
-            this.txt_Func.Size = new System.Drawing.Size(100, 20);
+            this.txt_Func.Size = new System.Drawing.Size(302, 31);
             this.txt_Func.TabIndex = 19;
             // 
             // txt_Textura
             // 
-            this.txt_Textura.Location = new System.Drawing.Point(147, 338);
+            this.txt_Textura.Location = new System.Drawing.Point(129, 431);
             this.txt_Textura.Name = "txt_Textura";
             this.txt_Textura.Size = new System.Drawing.Size(100, 20);
             this.txt_Textura.TabIndex = 20;
@@ -226,7 +232,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(449, 367);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(989, 618);
             this.Controls.Add(this.txt_Textura);
             this.Controls.Add(this.txt_Func);
             this.Controls.Add(this.txt_Desc);

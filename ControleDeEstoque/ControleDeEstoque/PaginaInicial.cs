@@ -22,5 +22,10 @@ namespace ControleDeEstoque
             
         }
 
+        private void PaginaInicial_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
