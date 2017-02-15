@@ -11,3 +11,6 @@ c:\Users\alunoct\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Control
 D:\ProjetodeLP2\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
 D:\ProjetodeLP2\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
 D:\ProjetodeLP2\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
+C:\Users\Bruninha\Pictures\new\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+C:\Users\Bruninha\Pictures\new\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+C:\Users\Bruninha\Pictures\new\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
